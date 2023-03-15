@@ -10,7 +10,7 @@ import org.junit.Test;
 import static io.restassured.RestAssured.given;
 import static org.junit.Assert.assertEquals;
 
-public class C14_Post_ExpectedDataVeJsonPathIleAssertion {
+public class C14_Post_ExpectedPojoDummyExampleDataVeJsonPathIleAssertion {
     @Test
     public void test01() {
         /*

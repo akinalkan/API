@@ -9,7 +9,7 @@ import org.testng.asserts.SoftAssert;
 
 import static io.restassured.RestAssured.given;
 
-public class C16_Put_SoftAssertIleExpectedDataTesti {
+public class C16_Put_SoftAssertIleExpectedPojoDummyExampleDataTesti {
     @Test
     public  void  test01(){
         /*

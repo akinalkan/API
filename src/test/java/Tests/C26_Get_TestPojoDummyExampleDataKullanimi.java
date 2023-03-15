@@ -13,7 +13,7 @@ import org.junit.Test;
 import static io.restassured.RestAssured.given;
 import static org.junit.Assert.assertEquals;
 
-public class C26_Get_TestDataKullanimi extends BaseUrlDummyExample {
+public class C26_Get_TestPojoDummyExampleDataKullanimi extends BaseUrlDummyExample {
     /*
             http://dummy.restapiexample.com/api/v1/employee/3 url’ine bir
             GET request gonderdigimizde

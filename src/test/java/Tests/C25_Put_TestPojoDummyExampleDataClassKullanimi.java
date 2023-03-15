@@ -12,7 +12,7 @@ import org.junit.Test;
 import static io.restassured.RestAssured.given;
 import static org.junit.Assert.assertEquals;
 
-public class C25_Put_TestDataClassKullanimi extends BaseUrlJsonPlaceholder {
+public class C25_Put_TestPojoDummyExampleDataClassKullanimi extends BaseUrlJsonPlaceholder {
     /*
     https://jsonplaceholder.typicode.com/posts/70 url'ine asagidaki body’e sahip bir
     PUT request  yolladigimizda donen response’in

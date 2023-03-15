@@ -11,7 +11,7 @@ import org.junit.Test;
 import static io.restassured.RestAssured.given;
 import static org.junit.Assert.assertEquals;
 
-public class C24_Get_TestDataClassKullanimiDinamik extends BaseUrlJsonPlaceholder {
+public class C24_Get_TestPojoDummyExampleDataClassKullanimiDinamik extends BaseUrlJsonPlaceholder {
     @Test
     public void test01() {
         /*

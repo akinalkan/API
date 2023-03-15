@@ -10,7 +10,7 @@ import org.junit.Test;
 
 import static io.restassured.RestAssured.given;
 
-public class C23_Get_TestDataClassKullanimi extends BaseUrlJsonPlaceholder {
+public class C23_Get_TestPojoDummyExampleDataClassKullanimi extends BaseUrlJsonPlaceholder {
     @Test
     public void test01() {
         /*

@@ -10,7 +10,7 @@ import org.junit.Test;
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.*;
 
-public class C13_Get_ExpectedDataOlusturma {
+public class C13_Get_ExpectedPojoDummyExampleDataOlusturma {
     @Test
     public  void test01(){
         /*

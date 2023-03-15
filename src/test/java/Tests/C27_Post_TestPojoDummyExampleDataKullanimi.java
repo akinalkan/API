@@ -12,7 +12,7 @@ import org.junit.Test;
 import static io.restassured.RestAssured.given;
 import static org.junit.Assert.assertEquals;
 
-public class C27_Post_TestDataKullanimi extends BaseUrlHerokuapp {
+public class C27_Post_TestPojoDummyExampleDataKullanimi extends BaseUrlHerokuapp {
     /*
     https://restful-booker.herokuapp.com/booking url’ine asagidaki body'ye sahip bir POST request
 gonderdigimizde donen response’un id haric asagidaki gibi oldugunu test edin.
